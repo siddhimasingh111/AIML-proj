@@ -1,9 +1,20 @@
-REPORT - NUMBER THEORY FUNCTIONS
+REPORT - MATHEMATICAL INTELLIGENCE TOOLKIT
 AUTHOR - Ms. Siddhima Singh
 COURSE - Fundamentals to AI/ML
 Date - 03/04/26
 
+## 1. Introduction
 
+This project presents a Mathematical Intelligence Toolkit that applies algorithmic logic and computational techniques to solve numerical problems efficiently.
+
+The project demonstrates how structured mathematical reasoning, pattern recognition, and algorithm design—key components in Artificial Intelligence systems—can be implemented using Python.
+
+
+## 2. Objective
+
+The objective of this project is to develop a system that performs various number-theoretic computations while showcasing the foundational logic behind intelligent systems used in AI and Machine Learning.
+
+## 3. IMPLEMENTATION DETAILS
 This report outlines 34 comprehensive functions covering fundamental to advanced topics in number theory.
 
 integer_sqrt(n):
@@ -141,3 +152,14 @@ Methodology: Creates the sequence by summing the two preceding terms, beginning 
 is_perfect_power(n):
 Purpose: Checks if 'n' can be written as another whole number raised to an integer power greater than one.
 Methodology: Systematically tests possible exponents (like 2, 3, 4, etc.) to see if taking that root of 'n' results in a whole number.
+
+## 4. Learning Outcomes
+
+- Developed strong algorithmic thinking
+- Understood computational logic and optimization
+- Explored mathematical foundations relevant to AI systems
+
+
+## 5. Conclusion
+
+This project highlights how mathematical logic and algorithmic structures contribute to the foundation of Artificial Intelligence and Machine Learning systems. It demonstrates the importance of efficient computation and structured problem-solving in building intelligent applications.
