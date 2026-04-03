@@ -1,6 +1,6 @@
 REPORT - NUMBER THEORY FUNCTIONS
 AUTHOR - Ms. Siddhima Singh
-COURSE - Introduction to Problem Solving and Programming (CSE1021)
+COURSE - Fundamentals to AI/ML
 Date - 03/04/26
 
 
